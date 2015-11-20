@@ -1,4 +1,6 @@
-Bizz buzz (também conhecido como fizz buzz, ou apenas buzz) é uma brincadeira em
+#FIZZBUZZ
+
+Fizz buzz (também conhecido como fizz buzz, ou apenas buzz) é uma brincadeira em
 grupo, comummente jogada como desculpa pra encher a cara. Os jogadores jogam em
 turnos incrementais, onde cada um fala um número substituindo números
 divisíveis por três pela palavra “fizz”, e números divisíveis por cinco pela
