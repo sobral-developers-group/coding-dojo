@@ -1,3 +1,5 @@
+#CHEGUE POR EXTENSO
+
 Apesar de o volume de cheques emitidos tenha diminuído drásticamente nos últimos anos, 
 principalmente devido a popularização dos cartões de crédito e débito, 
 eles ainda são utilizados em muitas compras, especialmente a de valores altos. 
