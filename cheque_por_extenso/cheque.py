@@ -1,6 +1,4 @@
-
 def cheque_extenso(valor):
-    conc="reais"
 
     unidades = {    1.00:"um",
                     2.00:"dois",
@@ -20,10 +18,10 @@ def cheque_extenso(valor):
                     17.00:"dezessete",
                     18.00:"dezoito",
                     19.00:"dezenove"
-
                 }
 
-    dezenas = {     10.00:"dez",
+    dezenas = {
+                    10.00:"dez",
                     20.00:"vinte",
                     30.00:"trinta",
                     40.00:"quarenta",
@@ -31,7 +29,17 @@ def cheque_extenso(valor):
                     60.00:"sessenta",
                     70.00:"setenta",
                     80.00:"oitenta",
-                    90.00:"noventa"}
+                    90.00:"noventa",
+                    100.00: "cem"
+                    }
+
+    centenas = {
+                    200.00: "duzentos",
+                    300.00: "trezentos",
+                    500.00: "quinhentos"
+                  }
+
+    conc="reais"
 
     if (valor == 1.00):
         conc = "real"
@@ -39,3 +47,18 @@ def cheque_extenso(valor):
         return unidades[valor] + " " + conc
     elif(valor in dezenas):
         return dezenas[valor] + " " + conc
+    elif (valor in centenas):
+        return centenas[valor]+ " " + conc
+    elif (valor==400 or (valor>=600 and valor<=900)):
+        return unidades[valor/100] +"centos"+" "+conc
+    elif(valor<=99):
+        valor_mod_10 = valor%10
+        return dezenas[(valor) - valor_mod_10]+" e "+unidades[valor_mod_10]+" "+conc
+    else:
+        parte_centenaria = int(valor/100)*100
+        if(parte_centenaria==100):
+            return cheque_extenso(parte_centenaria).replace("cem reais","cento ")+\
+            "e "+cheque_extenso(valor-parte_centenaria).replace("real","reais")
+        else:
+            return cheque_extenso(parte_centenaria).replace("reais","")+\
+            "e "+cheque_extenso(valor-parte_centenaria).replace("real","reais")
