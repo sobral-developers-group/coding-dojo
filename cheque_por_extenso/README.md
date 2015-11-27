@@ -7,7 +7,15 @@ E para auxiliar no seu preenchimento, vários estabelecimentos possuem máquinas
 preenchem o cheque com o seu valor por extenso.
 Desenvolva um programa que dado um valor monetário, seja retornado o valor em reais por extenso.
 
-Exemplo:
-15415,16 -> quinze mil quatrocentos e quinze reais e dezesseis centavos
-0,05 -> cinco centavos
-2,25 -> dois reais e vinte e cinco centavos
+  15415,16 -> quinze mil quatrocentos e quinze reais e dezesseis centavos<br>
+  0,05 -> cinco centavos<br>
+  2,25 -> dois reais e vinte e cinco centavos<br>
+
+Participantes
+ 
+  Valdemir Filho - valdemirfilho@alu.ufc.br <br>
+  Vidal Vasconcelos = vidalvasconcelos@live.com<br>
+  Joseph Isaac - isaac_uto@hotmail.com<br>
+  Valcides C. Moraes- valcidesdeveloper@live.com<br>
+  Francisco Aristides Chagas Marques ti.dim@hotmail.com
+
