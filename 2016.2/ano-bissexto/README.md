@@ -1,7 +1,9 @@
-1. Valdemir Filho - valdemirfilho@alu.ufc.br
+# Participantes
 
-2. Manoel Machado - manoel.machado@alu.ufc.br
 
-3. Samuel Herciles - samuel.hericles@alu.ufc.br
-
-4. Vidal Vasconcelos - vidalvasconcelos@alu.ufc.br 
+Participante      | Contato
+------------------|------------------------
+Valdemir Filho    | valdemirfilho@alu.ufc.br
+Manoel Machado    | manoel.machado@alu.ufc.br
+Samuel Hericles   | manhard18@hotmail.com
+Vidal Vasconcelos | vidalvasconcelos@live.com
