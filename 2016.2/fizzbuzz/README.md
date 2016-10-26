@@ -12,21 +12,22 @@ Tópicos:
 Data: 01 de Setembro de 2016, quinta-feira. 
 Duração: 18h30 até 21h30 (3h).
 
-
 # Participantes
 
+![final.jpg](final.jpg)
 
-Participante      | Contato
-------------------|------------------------
-Valdemir Filho    | valdemirfilho@alu.ufc.br
-Manoel Machado    | manoel.machado@alu.ufc.br
-Diego Oliveira    | curupiragaiato@hotmail.com
-Samuel Hericles   | manhard18@hotmail.com
-Vidal Vasconcelos | (sem-contato)
-Pablo Weslly      | (sem-contato)
-AlanIO Lima       | (sem-contato)
-Renoir Sampaio    | (sem-contato)
-Victor Veríssimo  | (sem-contato)
+
+| Participante      | Contato                    |
+| ----------------- | -------------------------- |
+| Valdemir Filho    | valdemirfilho@alu.ufc.br   |
+| Manoel Machado    | manoel.machado@alu.ufc.br  |
+| Diego Oliveira    | curupiragaiato@hotmail.com |
+| Samuel Hericles   | manhard18@hotmail.com      |
+| Vidal Vasconcelos | (sem-contato)              |
+| Pablo Weslly      | (sem-contato)              |
+| AlanIO Lima       | (sem-contato)              |
+| Renoir Sampaio    | (sem-contato)              |
+| Victor Veríssimo  | (sem-contato)              |
 
 
 # Problema
